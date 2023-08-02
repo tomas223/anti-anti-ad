@@ -1,6 +1,6 @@
 // Change 'targetClass' to the class you want to target
 const targetClass = "pla-unit";
-const markerAttribute = "processed";
+const markerAttribute = "data-3a-processed";
 
 // Remove overlay that has different "plahover" if exists
 // const overlay = document.getElementById("plahover");
